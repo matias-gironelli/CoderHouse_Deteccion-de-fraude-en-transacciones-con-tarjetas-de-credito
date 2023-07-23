@@ -1,6 +1,3 @@
-# CoderHouse_Deteccion-de-fraude-en-transacciones-con-tarjetas-de-credito
-
-
 CREDIT CARD TRANSACTIONS FRAUD DETECTION
 ==============================
 
