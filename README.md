@@ -1,5 +1,10 @@
-CREDIT CARD TRANSACTIONS FRAUD DETECTION
+# CREDIT CARD TRANSACTIONS FRAUD DETECTION
 ==============================
+
+## Curso DataScience
+Esta carpeta contiene los archivos para el proyecto final del curso de Data Scientist de CoderHouse.
+
+----
 
 Desde los sectores tradicionales hasta los emergentes, no hay un solo negocio que sea completamente inmune al fraude. 
 
@@ -20,21 +25,14 @@ Es importante reconocer las transacciones fraudulentas para que a los clientes n
 Organización del Proyecto
 ------------
 
-    ├── LICENSE
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── processed      <- Dataset utilizado para el proyecto.
-    │   └── raw            <- Folds utilizados para la entrenamiento y predicción de modelos
-    │
-    │
-    ├── models             <- Todos los mejos modelos probados por cada uno de los integrantes
-    │
-    ├── notebooks          <- Notebooks de todos los participantes del equipo de trabajo. 
-    │
-    ├── reports            <- Presentación de proyecto y conclusiones
-    │   └── figures        <- Figuras importanes del proyecto. 
-    │
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── 
+    ├── README.md          
+    ├── data                                       <- Dataset utilizado para el proyecto final.
+    ├── notebooks                                  <- Notebooks de todos los participantes del equipo de trabajo. 
+    │   └── Clase42_Algoritmos_clasificación_Regresión_Desafio_AlgoritmoML_MVP          <- Desafío adicional. Dataset y notebook sobre otro proyecto.
+    │   └── Desafio-complementario_clase_19_Evaluando-modelos-de-ML                     <- Desafío adicional.
+    │   └── Desafio_Descarga_de_datos_desde_APIs_publicas                               <- Desafío adicional.
+    │   └── Elecciones_de_datasets                                                      <- Datasets y notebook de los distintos posibles proyectos presentados al inicio de la cursada. 
+    │   └── Entregas_parciales_proyecto_final                                           <- Notebooks de entregas parciales referidas al proyecto final.
+    ├── Proyecto_Final_Gironelli_Matias.ipynb      <- Notebook del proyecto final.
+    ├── Presentación Proyecto Final.pptx           <- Presentación del proyecto.
 --------
